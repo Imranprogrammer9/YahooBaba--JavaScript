@@ -33,3 +33,14 @@ var h = "Hello World";
 if (g === h) {
     document.write("Both Variable Values and Data Types are not");
 }
+
+// Real Life Example
+var name = 'Imran';
+var gender = 'Male';
+// Concatenation is used here. When we want to write the value of two strings in one line, then we use the concatenation technique to display the result
+if (gender == "Male") {
+    document.write("Hello Mr. " + name);
+}
+else {
+    document.write("Hello Ms." + name);
+}
