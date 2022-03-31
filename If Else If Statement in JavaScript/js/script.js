@@ -1,5 +1,5 @@
 // If Else If Statement Means Adding Multiple Conditions In A Single If Else Statement. If The First Two Conditions are False Then The Third Condition Will Be Executed.
-var per = 0.1;
+var per = 89;
 
 if (per >= 90 && per <= 100) {
     document.write("A+");
