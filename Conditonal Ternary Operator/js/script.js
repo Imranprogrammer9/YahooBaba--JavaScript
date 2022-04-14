@@ -16,4 +16,4 @@ var b;
 (a > 10) ? b = "True" : b = "False";
 document.write("<br><br>");
 document.write(b);
-// When you are using Condition Ternar Operator On a Number Then, You have to write the var before the else/ifesle statement.
+// When you are using Condition Ternary Operator On a Number Then, You have to write the var before the else/ifelse statement.
